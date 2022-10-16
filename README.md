@@ -17,7 +17,7 @@ pip install slider_grafic
 
 ```python
 from slider_grafic.slider import slider1
-slider.grad()
+slider1.grad()
 ```
 
 ## Author
