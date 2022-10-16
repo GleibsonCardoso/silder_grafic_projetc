@@ -1,27 +1,27 @@
-# package_name
+# slider_grafic
 
 Description. 
 The package package_name is used to:
-	- 
+	- - cria um grafico com slider através do matplotlib para um simulador de biossensor óptico
 	-
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install slider_grafic
 
 ```bash
-pip install package_name
+pip install slider_grafic
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from slider_grafic.slider import slider1
+slider.grad()
 ```
 
 ## Author
-My_name
+Gleibson
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
