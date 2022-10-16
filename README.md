@@ -1,8 +1,8 @@
 # slider_grafic
 
-Description. 
-The package package_name is used to:
-	- - cria um grafico com slider através do matplotlib para um simulador de biossensor óptico
+## Description. 
+The package slider_grafic is used to:
+	- criar um grafico com slider através do matplotlib para um simulador de biossensor óptico
 	-
 
 ## Installation
